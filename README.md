@@ -22,10 +22,6 @@
 * Реализация отзывчивого дизайна (использован подход desktop-first)
 * Работа с Figma (pixel-perfect верстка)
 
-## Ссылка на проект:
-
-https://yuliazherebtsova.github.io/lubimovka/
-
 ## Продакшн
 
 https://lubimovka.art/
