@@ -25,3 +25,7 @@
 ## Ссылка на проект:
 
 https://yuliazherebtsova.github.io/lubimovka/
+
+## Продакшн
+
+https://lubimovka.art/
